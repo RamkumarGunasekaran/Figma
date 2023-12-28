@@ -37,9 +37,9 @@ Figma
 home page
 
 <div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
-    <img style="width: 360px; height: 74px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x74" />
-    <img style="width: 122px; height: 107px; left: 118px; top: 102px; position: absolute" src="https://via.placeholder.com/122x107" />
+    <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute"  />
+    <img style="width: 360px; height: 74px; left: 0px; top: 0px; position: absolute"  />
+    <img style="width: 122px; height: 107px; left: 118px; top: 102px; position: absolute"  />
     <div style="width: 169px; height: 55px; left: 95px; top: 219px; position: absolute; background: #5D9EFF"></div>
     <div style="width: 174px; height: 57px; left: 90px; top: 219px; position: absolute; color: #070706; font-size: 40px; font-family: Inter; font-weight: 400; word-wrap: break-word">  login>></div>
 </div>
