@@ -34,8 +34,7 @@ Figma
 
 ## CODE:
 
-home page:
-
+home page
 
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
@@ -52,7 +51,7 @@ color: #070706;
  font-weight: 400;
  word-wrap: break-word
 
-page 2:
+page 2
 
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
@@ -81,7 +80,7 @@ color: #0500FF;
  font-weight: 400;
  word-wrap: break-word
 
- Page 3:
+ Page 3
 
  <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 800px; height: 1685px; left: -289px; top: -609px; position: absolute" src="https://via.placeholder.com/800x1685" />
